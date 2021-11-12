@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <form action="/sign_up">
+          <input type="submit" value="Login"/>
+        </form>
       </header>
     </div>
   );
